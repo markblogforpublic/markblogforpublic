@@ -37,6 +37,11 @@ NOT ALL PROJECTS WILL BE UPDATED ON THIS WEBSITE ！
 
 ---
 
+### School's Projects
+https://github.com/markblogforpublic/Famous_Universities-_Projects/
+
+---
+
 ### 📌 More projects coming soon...
 
 Stay tuned — there's more on the way!
