@@ -39,9 +39,9 @@ NOT ALL PROJECTS WILL BE UPDATED ON THIS WEBSITE ！
 
 ### School's Projects
 
-| Project  | From Which School |
-|----------|--------------|
-[Symbolic-Computation-System](https://github.com/markblogforpublic/Famous_Universities-_Projects/tree/project-Utokyo-Symbolic-Computation-System) | From UTokyo |
+| Project  | From Which School | Region or COuntry |
+|----------|--------------|--------|
+[Symbolic-Computation-System](https://github.com/markblogforpublic/Famous_Universities-_Projects/tree/project-Utokyo-Symbolic-Computation-System) | From UTokyo | Japan |
 
 #### More:
 https://github.com/markblogforpublic/Famous_Universities-_Projects/
