@@ -6,6 +6,11 @@ Welcome to my GitHub profile! I'm a developer passionate about building practica
 
 NOT ALL PROJECTS WILL BE UPDATED ON THIS WEBSITE ！
 
+### AI ERA
+## Explore future AI imagination
+https://markblogforpublic.github.io/ai-portfolio/en/index.html
+
+
 ---
 
 ## Projects：ALL
